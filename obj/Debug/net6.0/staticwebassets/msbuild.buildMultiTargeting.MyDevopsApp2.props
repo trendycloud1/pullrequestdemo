@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MyDevopsApp2.props" />
+</Project>
